@@ -1,0 +1,16 @@
+/*change background color to purple*/
+
+.mp-level {
+	background: #57068c;
+}
+
+/*change header color to white*/
+
+.mp-menu h2 {
+	color: white;
+	}
+
+/*change navigation triangle to white*/
+.mp-menu ul li::before {
+	color: white;
+}
